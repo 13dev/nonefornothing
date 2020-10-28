@@ -52,18 +52,17 @@
 
 <!-- </details> -->
 
-<!-- <details>
+<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.nonefornothing.vercel.app/api?username=nonefornothing&show_icons=true&hide_border=true" />
 
-</details> -->
-
-<!-- [website]: https://codeSTACKr.com
+</details> 
+[website]: https://codeSTACKr.com
 
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr 
 
 [instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr -->
+[linkedin]: https://linkedin.com/in/codeSTACKr 
