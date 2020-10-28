@@ -38,7 +38,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />]
 
-
 <!-- <details>
   <summary>:zap: Recent GitHub Activity</summary> -->
 
@@ -55,9 +54,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.nonefornothing.vercel.app/api?username=nonefornothing&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://vercel.com/nonefornothing/github-readme-stats/15buo58iy/api?username=nonefornothing&show_icons=true&hide_border=true" />
 
 </details> 
+
 [website]: https://codeSTACKr.com
 
 [course]: http://vsCodeHero.com
