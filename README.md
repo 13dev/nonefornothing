@@ -11,7 +11,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-&nbsp; <br> [![Spotify](https://novatorem-git-master.nonefornothing.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+&nbsp; <br> [![Spotify](https://novatorem.nonefornothing.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
   </td>
   <td width="50%">
 
@@ -34,51 +34,6 @@
 <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/Sponge-quid-skeleton-memes.gif" align="right"/>
 
 <br />
-
-### Languages
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)\
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
-
-[![Python](https://img.shields.io/badge/-Python-fff?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-fff?&logo=JavaScript&logoColor=ddc508)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
-[![Java](https://img.shields.io/badge/-Java-fff?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![C](https://img.shields.io/badge/-C-fff?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
-![TypeScript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript&logoColor=007ACC)
-![C++](https://img.shields.io/badge/-C++-fff?&logo=c%2b%2b&logoColor=00599C)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-fff?&logo=PostgreSQL&logoColor=336791)
-![Swift](https://img.shields.io/badge/-Swift-fff?&logo=Swift)
-
-### Technologies
-
-![AWS](https://img.shields.io/badge/-AWS-fff?&logo=Amazon-AWS&logoColor=232F3E)
-![Docker](https://img.shields.io/badge/-Docker-fff?&logo=Docker)
-![Jira](https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-fff?&logo=Kubernetes)
-![Linux](https://img.shields.io/badge/-Linux-fff?&logo=linux&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?&logo=node.js)
-![Prometheus](https://img.shields.io/badge/-Prometheus-fff?&logo=Prometheus)
-![React](https://img.shields.io/badge/-React-fff?&logo=React)
-![Spring](https://img.shields.io/badge/-Spring-fff?&logo=Spring)
-![TCP/IP](https://img.shields.io/badge/-TCP/IP-fff?&logo=Cisco)
-
 
 <div align='center'>
 
