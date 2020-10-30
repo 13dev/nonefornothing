@@ -8,7 +8,13 @@
 
 ### Spotify Playing 🎧
 
+[<img src="https://novatorem-two-xi.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+[<img src="https://novatorem.nonefornothing.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+[<img src="https://novatorem.nonefornothing.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
+
+[![Spotify](https://novatorem-two-xi.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
 
@@ -17,7 +23,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-&nbsp; <br> [![Spotify](https://novatorem-liart-seven.vercel.app/api/spotify.py)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+&nbsp; <br> [![Spotify](https://novatorem-liart-seven.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
   </td>
   <td width="50%">
 
