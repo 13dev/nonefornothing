@@ -6,9 +6,11 @@
 
 ---
 
+
+
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-two-xi.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+[<img src="https://novatorem-git-master.nonefornothing.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
 [<img src="https://novatorem.nonefornothing.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
 [<img src="https://novatorem.nonefornothing.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
 
