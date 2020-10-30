@@ -8,6 +8,12 @@
 
 ### Spotify Playing 🎧
 
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
+
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+
+[![Spotify](https://novatorem-liart-seven.vercel.app/api/spotify-playing)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+
 <table width="100%"> 
   <tr>
   <td width="50%">
