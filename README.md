@@ -8,12 +8,19 @@
 
 ### Spotify Playing 🎧
 
-<div>
- <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/walk_with_me.gif" align="right"/>
-https://novatorem-liart-seven.vercel.app/
- [<img src="https://novatorem-liart-seven.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
- <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/>
-</div>
+<table width="100%"> 
+  <tr>
+  <td width="50%">
+&nbsp; <br> [![Spotify](https://novatorem-git-master.nonefornothing.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+
+  </td>
+  <td width="50%">
+
+<br><p align="center">
+ <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/
+</p>
+  </td>
+  </table>
 
 ---
 
@@ -23,9 +30,7 @@ https://novatorem-liart-seven.vercel.app/
 <a href="" target="_blank"><img alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
 <a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
-
-</p>
+<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
 
 <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/Sponge-quid-skeleton-memes.gif" align="right"/>
 
