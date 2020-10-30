@@ -1,7 +1,12 @@
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgN8YKRhByRBzMI/source.gif">
+
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgN8YKRhByRBzMI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI">via GIPHY</a></p>
+
 ### Hi there, I'm Johan - aka [JOX]👋
 
-<div >
-<img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif" align="center" />
+<div align="center">
+<img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif"  />
+</div>
 
 ## I'm a Software [Frondend Developer] & Hardware Engineer
 
@@ -13,15 +18,15 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<div>
+ [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+ <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/>
+</div>
 
-<img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/>
 
 <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/walk_with_me.gif" align="right"/>
 
 ### 🤝🏻 &nbsp;Connect with Me
-
-[<img align="left" alt="personal website" width="22px" src="" />][website]
 
 [<img align="left" alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="gmail account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
@@ -182,15 +187,12 @@
 </div>
 
 <div align='center'>
-
   <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=black&style=flat-square&logo=apple' />
   <img src='https://img.shields.io/static/v1?label=Editor&message=Atom&color=black&style=flat-square&logo=atom' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
-
 </div>
 
 <div align='center'>
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
