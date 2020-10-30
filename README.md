@@ -2,14 +2,12 @@
 
 align="right"
 
-<img alt="hello image" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif" />
 
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <div align="center">
-<img alt="Night Coding" width:100% height:100% src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif"  />
 </div>
 
 ---
@@ -135,6 +133,7 @@ align="right"
 ### :zap: Recent Commit
 
 <!-- START gadpp -->
+- nonefornothing/nonefornothing, [refs/heads/master@e5700db717d9fbe47cf78bb66dbba08c8a283347](https://github.com/nonefornothing/nonefornothing/commit/e5700db717d9fbe47cf78bb66dbba08c8a283347)
 
 </details>
 
@@ -146,7 +145,6 @@ align="right"
 <a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
 
-<img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/Sponge-quid-skeleton-memes.gif" align="right"/>
 
 <br />
 
