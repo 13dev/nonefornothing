@@ -1,20 +1,10 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgN8YKRhByRBzMI/source.gif">
-
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/xT9IgN8YKRhByRBzMI" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/loop-motion-graphics-techno-xT9IgN8YKRhByRBzMI">via GIPHY</a></p>
-
 ### Hi there, I'm Johan - aka [JOX]👋
 
 <div align="center">
-<img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif"  />
+<img alt="Night Coding" width:100% height:0 src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif"  />
 </div>
 
-## I'm a Software [Frondend Developer] & Hardware Engineer
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+---
 
 ### Spotify Playing 🎧
 
@@ -23,8 +13,9 @@
  <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/>
 </div>
 
-
 <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/walk_with_me.gif" align="right"/>
+
+---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -191,6 +182,8 @@
   <img src='https://img.shields.io/static/v1?label=Editor&message=Atom&color=black&style=flat-square&logo=atom' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
 </div>
+
+---
 
 <div align='center'>
 
