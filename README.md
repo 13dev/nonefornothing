@@ -1,7 +1,7 @@
 ### Hi there, I'm Johan - aka [JOX]👋
 
 <div align="center">
-<img alt="Night Coding" width:100% height:0 src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif"  />
+<img alt="Night Coding" width:100% height:100% src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif"  />
 </div>
 
 ---
@@ -9,20 +9,23 @@
 ### Spotify Playing 🎧
 
 <div>
- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+ <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/walk_with_me.gif" align="right"/>
+https://novatorem-liart-seven.vercel.app/
+ [<img src="https://novatorem-liart-seven.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
  <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/>
 </div>
-
-<img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/walk_with_me.gif" align="right"/>
 
 ---
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-[<img align="left" alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gmail account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<p align="center">
+<a href="" target="_blank"><img alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
+</p>
 
 <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/Sponge-quid-skeleton-memes.gif" align="right"/>
 
@@ -191,8 +194,3 @@
   <summary>:zap: GitHub Stats</summary>
   <a href=""><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api?username=nonefornothing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=nonefornothing&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 </details>
-
-[website]:
-[gmail]: mailto:avsingh@umass.edu
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
