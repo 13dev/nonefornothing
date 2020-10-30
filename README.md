@@ -12,12 +12,11 @@
   <tr>
   <td width="50%">
 &nbsp; <br> [![Spotify](https://novatorem-git-master.nonefornothing.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
-
   </td>
   <td width="50%">
 
 <br><p align="center">
- <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/
+ <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/>
 </p>
   </td>
   </table>
