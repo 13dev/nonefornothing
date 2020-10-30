@@ -7,50 +7,6 @@
 ---
 
 
-
-### Spotify Playing 🎧
-
-[<img src="https://novatorem-git-master.nonefornothing.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
-[<img src="https://novatorem.nonefornothing.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
-[<img src="https://novatorem.nonefornothing.vercel.app/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
-
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/codestackr)
-
-[![Spotify](https://novatorem-two-xi.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
-
-[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
-
-[![Spotify](https://novatorem-liart-seven.vercel.app/api/spotify-playing)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
-
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-&nbsp; <br> [![Spotify](https://novatorem-liart-seven.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
-  </td>
-  <td width="50%">
-
-<br><p align="center">
- <img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/dancing_skeletons.gif" align="right"/>
-</p>
-  </td>
-  </table>
-
----
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="" target="_blank"><img alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
-<a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
-
-<img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/Sponge-quid-skeleton-memes.gif" align="right"/>
-
-<br />
-
-<div align='center'>
-
  **LANGUAGES**
 
 </div>
@@ -167,3 +123,17 @@
   <summary>:zap: GitHub Stats</summary>
   <a href=""><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api?username=nonefornothing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=nonefornothing&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 </details>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="" target="_blank"><img alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
+
+<img alt="Night Coding" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/Sponge-quid-skeleton-memes.gif" align="right"/>
+
+<br />
+
+<div align='center'>
