@@ -2,7 +2,6 @@
 
 align="right"
 
-
 ### Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
@@ -133,6 +132,7 @@ align="right"
 ### :zap: Recent Commit
 
 <!-- START gadpp -->
+
 - nonefornothing/nonefornothing, [refs/heads/master@019fc9019fb746c7b6647d214a692679f037b968](https://github.com/nonefornothing/nonefornothing/commit/019fc9019fb746c7b6647d214a692679f037b968)
 
 </details>
@@ -144,7 +144,6 @@ align="right"
 <a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
-
 
 <br />
 
