@@ -11,7 +11,7 @@
 <table width="100%"> 
   <tr>
   <td width="50%">
-&nbsp; <br> [![Spotify](https://novatorem-liart-seven.vercel.app/api/spotify)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
+&nbsp; <br> [![Spotify](https://novatorem-liart-seven.vercel.app/api/spotify.py)](https://open.spotify.com/user/cly4vpaww3sva2p2bttrtg492)
   </td>
   <td width="50%">
 
