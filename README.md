@@ -1,8 +1,8 @@
-Hiya there!✌🏻
-
 ### Hi there, I'm Johan - aka [JOX]👋
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/nonefornothing/nonefornothing/master/assets/hello.gif" align="right"/>
+align="right"
+
+<img alt="hello image" src="https://github.com/nonefornothing/nonefornothing/blob/master/assets/hello.gif" />
 
 ## I'm a Software [Frondend Developer] & Hardware Engineer
 
