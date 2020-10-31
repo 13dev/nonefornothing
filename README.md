@@ -13,8 +13,6 @@
 
 </div >
 
-<div align='left' >
-
   <!-- <div align='center'> -->
 
 **LANGUAGES**
@@ -120,8 +118,6 @@
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
 
   <!-- </div> -->
-
-</div>
 
 <br />
 <br />
