@@ -7,8 +7,6 @@
 
 ---
 
-<div>
-
 <div align='right'>
 
   <img alt="work-like-hell" width="350px" height="350px" src="/assets/tenor.gif" />
@@ -122,8 +120,6 @@
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
 
   </div>
-
-</div>
 
 </div>
 
