@@ -100,10 +100,11 @@ align="right"
     <img src='https://img.shields.io/static/v1?label=&message=Nginx&style=flat-square&logo=nginx&logoColor=269539&color=black' />
   </a>
   <a href='https://www.blender.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Blender&style=flat-square&logo=blender&logoColor=f5792a&color=black' />
+    <img src='https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white' />
   </a>
   <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=krita&style=flat-square&logo=krita&logoColor=fb89c8&color=black' />
+    <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white
+' />
   </a>
 </div>
 
@@ -125,13 +126,13 @@ align="right"
     <img src='https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&logoColor=2496ed&color=black' />
   </a>
   <a href='https://reactjs.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=React.js&style=flat-square&logo=react&logoColor=61dafb&color=black' />
+    <img src='<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>' />
   </a>
   <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Godot%20Engine&style=flat-square&logo=godot-engine&logoColor=478cbf&color=black' />
+    <img src='https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' />
   </a>
   <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=CMake&style=flat-square&logo=cmake&logoColor=064f8c&color=black' />
+    <img src='https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' />
   </a>
   <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&logoColor=green&color=black' />
 </div>
@@ -167,4 +168,6 @@ align="right"
 
 <br />
 
-<div align='center'>
+</div>
+
+<!-- START gadpp -->
