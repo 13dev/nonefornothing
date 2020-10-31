@@ -128,19 +128,6 @@ align="right"
   <a href=""><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api?username=nonefornothing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=nonefornothing&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 </details>
 
-<details>
-### :zap: Recent Commit
-
-<!-- START gadpp -->
-<<<<<<< HEAD
-
-- nonefornothing/nonefornothing, [refs/heads/master@019fc9019fb746c7b6647d214a692679f037b968](https://github.com/nonefornothing/nonefornothing/commit/019fc9019fb746c7b6647d214a692679f037b968)
-=======
-- nonefornothing/nonefornothing, [refs/heads/master@d1f1e6e78025fe03aee48e47489a1552ac0b7ec9](https://github.com/nonefornothing/nonefornothing/commit/d1f1e6e78025fe03aee48e47489a1552ac0b7ec9)
->>>>>>> 92d373d2aef62adf7231f8b0bff119b5bff81087
-
-</details>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
