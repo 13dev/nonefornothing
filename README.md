@@ -20,7 +20,7 @@ align="right"
 
 <div align='center'>
   <a href='https://www.w3schools.com/html/html_intro.asp' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white' />
+    <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white' />
   </a>
     <a href='https://css-tricks.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white' />
