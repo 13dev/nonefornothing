@@ -20,31 +20,31 @@ align="right"
 
 <div align='center'>
   <a href='https://www.w3schools.com/html/html_intro.asp' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white' width="20px" height="10px"/>
+    <img src='https://img.shields.io/static/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white' />
   </a>
     <a href='https://css-tricks.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white' width="20px" height="10px"/>
+    <img src='https://img.shields.io/static/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white' />
   </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black' width="20px" height="10px"/>
+    <img src='https://img.shields.io/static/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black' />
   </a>
       <a href='https://docs.oracle.com/en/java' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white' width="20px" height="10px"/>
+    <img src='https://img.shields.io/static/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white' />
   </a>
     <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white' width="20px" height="10px"/>
+    <img src='https://img.shields.io/static/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white' />
   </a>
 
   <a href='https://dev.mysql.com/doc/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white' width="20px" height="10px"/>
+    <img src='https://img.shields.io/static/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white' />
   </a>
 
   <a href='https://firebase.google.com/docs' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase' width="20px" height="10px"/>
+    <img src='https://img.shields.io/static/firebase%20-%23039BE5.svg?&style=flat-square&logo=firebase' />
   </a>
 
   <a href='https://vercel.com/docs' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/vercel%20-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white' width="20px" height="10px"/>
+    <img src='https://img.shields.io/static/vercel%20-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white' />
   </a>
 
   <a href='https://helpx.adobe.com/xd/user-guide.html' target='_blank' rel='noopener' rel='noreferrer'>
