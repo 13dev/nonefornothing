@@ -1,6 +1,6 @@
-### Hi there, I'm Johan - aka [JOX]👋
+### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="30px" height="30px" src="/assets/wave.gif" />
 
-align="right"
+<img alt="hello" width="350px" height="350px" src="/assets/hello.gif" />
 
 ### Spotify Playing 🎧
 
@@ -16,9 +16,9 @@ align="right"
 
 **LANGUAGES**
 
-</div>
+<img alt="hello" width="350px" height="350px" src="/assets/hello.gif" align='right'/>
 
-<div align='center'>
+<div align='left'>
 
   <a href='https://www.w3schools.com/html/html_intro.asp' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white' />
@@ -65,13 +65,13 @@ align="right"
 
 </div>
 
-<div align='center'>
+<div align='left'>
 
 **TOOLS**
 
 </div>
 
-<div align='center'>
+<div align='left'>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
   </a>
@@ -108,7 +108,7 @@ align="right"
   </a>
 </div>
 
-<div align='center'>
+<div align='left'>
 
 **I am learning**
 
@@ -161,10 +161,12 @@ align="right"
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center"> 
-<a href="" target="_blank"><img alt="personal website" width="50px" height="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
-<a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
+<a href="" target="_blank"><img alt="personal website" width="50px" height="50px" margin-right="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" ></a>
+<a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="50px" height="50px" margin-right="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="50px" height="50px" margin-right="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="50px" height="50px" margin-right="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
+
+<img alt="waiting-skeleton" width="350px" height="350px" src="/assets/waiting-SD.gif" />
 
 <br />
 
