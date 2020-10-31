@@ -7,6 +7,9 @@ align="right"
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <div align="center">
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&cover_image=true&theme=default)]]
+
 </div>
 
 ---
