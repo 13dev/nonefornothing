@@ -9,13 +9,13 @@
 
 <div>
 
-<div align='right' width="50%">
+<div align='right'>
 
   <img alt="work-like-hell" width="350px" height="350px" src="/assets/tenor.gif" />
 
 </div >
 
-<div align='left'  width="50%">
+<div align='left' >
 
   <div align='center'>
 
@@ -62,9 +62,9 @@
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
   </a>
 
-<a><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
+<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
 
-<a> <img src='https://img.shields.io/badge/-Jira-fff?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
+<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'><img src='https://img.shields.io/badge/-Jira-fff?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
 
   </div>
 
