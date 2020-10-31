@@ -1,18 +1,12 @@
 ### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="20px" height="30px" src="/assets/wave.gif" />
 
-<img alt="hello" width="350px" height="350px" align="center" src="/assets/hello.gif" />
-
-<div align="center">
-
-<!-- [[https://spotify-github-profile.nonefornothing.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&redirect=true][https://spotify-github-profile.nonefornothing.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&cover_image=true&theme=default)]] -->
-
-</div>
+<img alt="hello" width="350px" height="350px" src="/assets/hello.gif" align="center"/>
 
 ---
 
 **LANGUAGES**
 
-<img alt="hello" width="350px" height="350px" src="/assets/tenor.gif" align='right'/>
+<img alt="work-like-hell" width="350px" height="350px" src="/assets/tenor.gif" align='right'/>
 
 <div align='left'>
 
@@ -54,12 +48,12 @@
    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
   </a>
 
-  </a>
-    <img src='https://img.shields.io/static/v1?label=&message=SQL&style=flat-square&logo=database&logoColor=239120&color=black' />
-    <img src='https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC'/>
+<a><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
+
+<a> <img src='https://img.shields.io/badge/-Jira-fff?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
 
 </div>
 
@@ -77,10 +71,10 @@
     <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&style=flat-square&logo=bootstrap&logoColor=563d7c&color=black' />
   </a>
   <a href='https://www.blender.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white' />
+    <img src='https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white' />
   </a>
   <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white' />
+    <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white' />
   </a>
 </div>
 
@@ -120,10 +114,16 @@
 </div>
 
 <div align='center'>
-  <img src='https://img.shields.io/static/v1?label=OS&message=MacOS&color=black&style=flat-square&logo=apple' />
-  <img src='https://img.shields.io/static/v1?label=Editor&message=Atom&color=black&style=flat-square&logo=atom' />
+
+  <img src='https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=flat-square' />
+  <img src='https://img.shields.io/static/v1?label=Editor&message=Visual-Studio-Code&color=black&style=flat-square&logo=atom' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
 </div>
+
+<br />
+<br />
+<br />
+<br />
 
 ---
 
