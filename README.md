@@ -2,24 +2,20 @@
 
 ### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="20px" height="30px" width="20px" src="/assets/wave.gif" />
 
-<img alt="hello" width="350px" height="350px" src="/assets/hello.gif"/>
+<img alt="hello" width="300px" height="300px" src="/assets/hello.gif"/>
 </div>
 
 ---
 
-<div align='right'>
+<img alt="work-like-hell" align="right" width="350px" height="350px" src="/assets/tenor.gif" />
 
-  <img alt="work-like-hell" width="350px" height="350px" src="/assets/tenor.gif" />
-
-</div >
-
-<div align='left'>
+<div align='center'>
 
 **LANGUAGES**
 
 </div >
 
-<div align='left'>
+<div align='center'>
 
   <a href='https://www.w3schools.com/html/html_intro.asp' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white' />
@@ -68,13 +64,13 @@
 
   </div>
 
-<div align='left'>
+<div align='center'>
 
 **TOOLS**
 
   </div>
 
-<div align='left'>
+<div align='center'>
 
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
@@ -91,13 +87,13 @@
 
   </div>
 
-  <div align='left'>
+  <div align='center'>
 
 **I am learning**
 
   </div>
 
-  <div align='left'>
+  <div align='center'>
 
   <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&logoColor=007396&color=black' />
@@ -121,7 +117,7 @@
 
   </div>
 
-  <div align='left'>
+  <div align='center'>
 
 **preferences**
 
