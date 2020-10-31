@@ -7,7 +7,7 @@
 
 ---
 
-<img alt="work-like-hell" align="right" width="350px" height="350px" src="/assets/tenor.gif" />
+<img alt="work-like-hell" align="right" width="350px" height="450px" src="/assets/tenor.gif" />
 
 <div align='center'>
 
@@ -17,6 +17,9 @@
 
 <div align='center'>
 
+  <a href='https://www.blender.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white' />
+  </a>
   <a href='https://www.w3schools.com/html/html_intro.asp' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white' />
   </a>
@@ -32,8 +35,19 @@
     <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white' />
   </a>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
+  <img src='https://img.shields.io/badge/-Jira-00979D?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
 
-  <a href='https://dev.mysql.com/doc/' target='_blank' rel='noopener' rel='noreferrer'>
+  </div>
+
+<div align='center'>
+
+**TOOLS**
+
+  </div>
+
+<div align='center'>
+   <a href='https://dev.mysql.com/doc/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white' />
   </a>
 
@@ -57,29 +71,11 @@
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
   </a>
-
-<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'><img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white"/></a>
-
-<a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'><img src='https://img.shields.io/badge/-Jira-fff?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
-
-  </div>
-
-<div align='center'>
-
-**TOOLS**
-
-  </div>
-
-<div align='center'>
-
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
   </a>
   <a href='https://getbootstrap.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&style=flat-square&logo=bootstrap&logoColor=563d7c&color=black' />
-  </a>
-  <a href='https://www.blender.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white' />
   </a>
   <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white' />
@@ -95,23 +91,14 @@
 
   <div align='center'>
 
-  <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&logoColor=007396&color=black' />
-  </a>
-  <a href='https://nodejs.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Node.js&logoColor=339933&color=black&style=flat-square&logo=node' />
-  </a>
-  <a href='https://www.docker.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Docker&style=flat-square&logo=docker&logoColor=2496ed&color=black' />
-  </a>
   <a href='https://reactjs.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>' />
+    <img src='<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>' />
   </a>
   <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+    <img src='https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB' />
   </a>
   <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+    <img src='https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB' />
   </a>
   <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&logoColor=green&color=black' />
 
@@ -121,13 +108,22 @@
 
 **preferences**
 
-  <img src='https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=flat-square' />
-  <img src='https://img.shields.io/static/v1?label=Editor&message=Visual-Studio-Code&color=black&style=flat-square&logo=atom' />
-  <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
+<a href='https://code.visualstudio.com/' target='_blank' rel='noopener' rel='noreferrer'>
+  <img src='https://img.shields.io/static/v1?label=OS&message=Windows&color=0078D6&logo=windows&logoColor=white&style=flat-square'/>
+  </a>
+  <a href='https://code.visualstudio.com/' target='_blank' rel='noopener' rel='noreferrer'>
+  <img src='https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white' />
+  </a>
+  <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
+ <img src='https://img.shields.io/static/v1?label=Language&message=C&color=2300599C&style=flat-square&logo=C' />
+  </a>
+
+  <!-- https://img.shields.io/badge/c%20-%2300599C.svg?&style=flat-square&logo=c&logoColor=white -->
+
+ <!-- <img src='https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=flat-square' /> -->
 
   </div>
 
-<br />
 <br />
 
 ---
