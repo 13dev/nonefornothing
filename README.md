@@ -1,10 +1,6 @@
-### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="30px" height="30px" src="/assets/wave.gif" />
+### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="20px" height="30px" src="/assets/wave.gif" />
 
 <img alt="hello" width="350px" height="350px" align="center" src="/assets/hello.gif" />
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <div align="center">
 
@@ -57,8 +53,10 @@
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   </a>
-  <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&logoColor=239120&color=black' />
+    <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
   </a>
     <img src='https://img.shields.io/static/v1?label=&message=SQL&style=flat-square&logo=database&logoColor=239120&color=black' />
     <img src='https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC'/>
@@ -75,36 +73,14 @@
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
   </a>
-  <a href='https://www.djangoproject.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Django&style=flat-square&logo=django&logoColor=darkgreen&color=black' />
-  </a>
-  <a href='https://aws.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=AWS&style=flat-square&logo=amazon&color=black' />
-  </a>
   <a href='https://getbootstrap.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&style=flat-square&logo=bootstrap&logoColor=563d7c&color=black' />
-  </a>
-  <a href='https://wordpress.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=WordPress&style=flat-square&logo=wordpress&logoColor=21759b&color=black' />
-  </a>
-  <a href='https://apache.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Apache&style=flat-square&logo=apache&logoColor=c71a36&color=black' />
-  </a>
-  <a href='https://wireshark.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Wireshark&style=flat-square&logo=shark&logoColor=00008b&color=black' />
-  </a>
-  <a href='https://www.postman.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=postman&style=flat-square&logo=postman&logoColor=orange&color=black' />
-  </a>
-  <a href='https://www.nginx.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Nginx&style=flat-square&logo=nginx&logoColor=269539&color=black' />
   </a>
   <a href='https://www.blender.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white' />
   </a>
   <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white
-' />
+    <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white' />
   </a>
 </div>
 
