@@ -1,6 +1,6 @@
 ### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="30px" height="30px" src="/assets/wave.gif" />
 
-<img alt="hello" width="350px" height="350px" src="/assets/hello.gif" />
+<img alt="hello" width="350px" height="350px" align="center" src="/assets/hello.gif" />
 
 ### Spotify Playing 🎧
 
@@ -16,7 +16,7 @@
 
 **LANGUAGES**
 
-<img alt="hello" width="350px" height="350px" src="/assets/hello.gif" align='right'/>
+<img alt="hello" width="350px" height="350px" src="/assets/tenor.gif" align='right'/>
 
 <div align='left'>
 
@@ -153,10 +153,9 @@
 
 <div align='center'>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <a href=""><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api?username=nonefornothing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=nonefornothing&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
-</details>
+### :zap: GitHub Stats
+
+<a href=""><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api?username=nonefornothing&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137.3px" alt="nonefornothing's GitHub Stats" src="https://github-readme-stats-gamma-eosin.vercel.app/api/top-langs/?username=nonefornothing&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
@@ -166,7 +165,7 @@
 <a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="50px" height="50px" margin-right="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="50px" height="50px" margin-right="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
 
-<img alt="waiting-skeleton" width="350px" height="350px" src="/assets/waiting-SD.gif" />
+<img alt="waiting-skeleton" width="350px" height="350px" src="/assets/waiting-HD.gif" />
 
 <br />
 
