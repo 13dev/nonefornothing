@@ -8,7 +8,7 @@ align="right"
 
 <div align="center">
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&cover_image=true&theme=default)]]
+[[https://spotify-github-profile.nonefornothing.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&redirect=true][https://spotify-github-profile.nonefornothing.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&cover_image=true&theme=default)]]
 
 </div>
 
