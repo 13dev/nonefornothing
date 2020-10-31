@@ -133,7 +133,7 @@ align="right"
 ### :zap: Recent Commit
 
 <!-- START gadpp -->
-- nonefornothing/nonefornothing, [refs/heads/master@0313f5540e02523cd206515d08fe1a19de284154](https://github.com/nonefornothing/nonefornothing/commit/0313f5540e02523cd206515d08fe1a19de284154)
+- nonefornothing/nonefornothing, [refs/heads/master@a797260d6d400f73e2f3c0f63750b1f056b1aff7](https://github.com/nonefornothing/nonefornothing/commit/a797260d6d400f73e2f3c0f63750b1f056b1aff7)
 
 </details>
 
