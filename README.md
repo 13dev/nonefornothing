@@ -15,7 +15,7 @@
 
 <div align='left' >
 
-  <div align='center'>
+  <!-- <div align='center'> -->
 
 **LANGUAGES**
 
@@ -64,9 +64,9 @@
 
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'><img src='https://img.shields.io/badge/-Jira-fff?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
 
-  </div>
+  <!-- </div>
 
-  <div align='center'>
+  <div align='center'> -->
 
 **TOOLS**
 
@@ -83,9 +83,9 @@
     <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white' />
   </a>
 
-  </div>
+  <!-- </div>
 
-  <div align='center'>
+  <div align='center'> -->
 
 **I am learning**
 
@@ -109,9 +109,9 @@
   </a>
   <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&logoColor=green&color=black' />
 
-  </div>
+ <!--  </div>
 
-  <div align='center'>
+  <div align='center'> -->
 
 **preferences**
 
@@ -119,7 +119,7 @@
   <img src='https://img.shields.io/static/v1?label=Editor&message=Visual-Studio-Code&color=black&style=flat-square&logo=atom' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
 
-  </div>
+  <!-- </div> -->
 
 </div>
 
