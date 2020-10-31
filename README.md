@@ -19,14 +19,15 @@ align="right"
 </div>
 
 <div align='center'>
+
   <a href='https://www.w3schools.com/html/html_intro.asp' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white' />
   </a>
-    <a href='https://css-tricks.com/' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://css-tricks.com/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white' />
   </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black' />
+    <img src='https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=white&labelColor=yellow' />
   </a>
       <a href='https://docs.oracle.com/en/java' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/java-%23ED8B00.svg?&style=flat-square&logo=java&logoColor=white' />
@@ -60,7 +61,7 @@ align="right"
     <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&logoColor=239120&color=black' />
   </a>
     <img src='https://img.shields.io/static/v1?label=&message=SQL&style=flat-square&logo=database&logoColor=239120&color=black' />
-    <img src='https://img.shields.io/static/v1?label=&message=RUBY&style=flat-square&logo=ruby&logoColor=red&color=black' />
+    <img src='https://img.shields.io/badge/-Jira-fff?&logo=jira-software&logoColor=0052CC'/>
 
 </div>
 
@@ -158,11 +159,11 @@ align="right"
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
-<a href="" target="_blank"><img alt="personal website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
-<a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
-<a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
+<p align="center"> 
+<a href="" target="_blank"><img alt="personal website" width="50px" height="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="50px" height="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
 
 <br />
 
