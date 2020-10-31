@@ -7,6 +7,8 @@
 
 ---
 
+<div>
+
 <div align='right' width="50%">
 
   <img alt="work-like-hell" width="350px" height="350px" src="/assets/tenor.gif" />
@@ -14,6 +16,8 @@
 </div >
 
 <div align='left'  width="50%">
+
+  <div align='center'>
 
 **LANGUAGES**
 
@@ -54,7 +58,7 @@
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
    <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
   </a>
-    <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
+  <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
   <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
   </a>
 
@@ -62,15 +66,12 @@
 
 <a> <img src='https://img.shields.io/badge/-Jira-fff?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
 
-</div>
+  </div>
 
-<div align='left'>
+  <div align='center'>
 
 **TOOLS**
 
-</div>
-
-<div align='left'>
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
   </a>
@@ -83,15 +84,12 @@
   <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white' />
   </a>
-</div>
 
-<div align='left'>
+  </div>
+
+  <div align='center'>
 
 **I am learning**
-
-</div>
-
-<div align='center'>
 
   <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&logoColor=007396&color=black' />
@@ -112,27 +110,25 @@
     <img src='https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB' />
   </a>
   <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&logoColor=green&color=black' />
-</div>
 
-<div align='center'>
+  </div>
+
+  <div align='center'>
 
 **preferences**
-
-</div>
-
-<div align='center'>
 
   <img src='https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=flat-square' />
   <img src='https://img.shields.io/static/v1?label=Editor&message=Visual-Studio-Code&color=black&style=flat-square&logo=atom' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
+
+  </div>
+
 </div>
 
 </div>
 
 <br />
 <br />
-
-</div>
 
 ---
 
