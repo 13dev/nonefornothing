@@ -8,7 +8,7 @@ align="right"
 
 <div align="center">
 
-[[https://spotify-github-profile.nonefornothing.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&redirect=true][https://spotify-github-profile.nonefornothing.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&cover_image=true&theme=default)]]
+<!-- [[https://spotify-github-profile.nonefornothing.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&redirect=true][https://spotify-github-profile.nonefornothing.vercel.app/api/view.svg?uid=cly4vpaww3sva2p2bttrtg492&cover_image=true&theme=default)]] -->
 
 </div>
 
@@ -19,17 +19,42 @@ align="right"
 </div>
 
 <div align='center'>
-  <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=python&style=flat-square&logo=python&logoColor=3776ab&color=black' />
+  <a href='https://www.w3schools.com/html/html_intro.asp' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white' />
   </a>
-  <a href='https://isocpp.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=C%2B%2B&style=flat-square&logo=c%2B%2B&logoColor=00599c&color=black' />
+    <a href='https://css-tricks.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white' />
   </a>
-  <a href='https://www.gnu.org/software/bash/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=%23%21%2Fbin%2Fbash&logoColor=4eaa25&style=flat-square&logo=gnu-bash&color=black' />
+    <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black&labelColor=black' />
+  </a>
+      <a href='https://docs.oracle.com/en/java' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white' />
+  </a>
+    <a href='https://www.python.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white' />
+  </a>
+
+  <a href='https://dev.mysql.com/doc/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white' />
+  </a>
+
+  <a href='https://firebase.google.com/docs' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase' />
+  </a>
+
+  <a href='https://vercel.com/docs' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white' />
+  </a>
+
+  <a href='https://helpx.adobe.com/xd/user-guide.html' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=for-the-badge&logo=adobe%20xd&logoColor=white' />
+  </a>
+  <a href='https://helpx.adobe.com/illustrator/user-guide.html' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white' />
   </a>
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=javascript&style=flat-square&logo=javascript&logoColor=grey&color=black' />
+   <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   </a>
   <a href='https://docs.microsoft.com/en-us/dotnet/csharp/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=C%20Sharp&style=flat-square&logo=c-sharp&logoColor=239120&color=black' />
