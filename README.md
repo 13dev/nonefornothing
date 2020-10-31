@@ -13,9 +13,13 @@
 
 </div >
 
-  <!-- <div align='center'> -->
+<div align='left'>
 
 **LANGUAGES**
+
+</div >
+
+<div align='left'>
 
   <a href='https://www.w3schools.com/html/html_intro.asp' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white' />
@@ -62,11 +66,15 @@
 
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'><img src='https://img.shields.io/badge/-Jira-fff?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
 
-  <!-- </div>
+  </div>
 
-  <div align='center'> -->
+<div align='left'>
 
 **TOOLS**
+
+  </div>
+
+<div align='left'>
 
   <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
@@ -81,11 +89,15 @@
     <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white' />
   </a>
 
-  <!-- </div>
+  </div>
 
-  <div align='center'> -->
+  <div align='left'>
 
 **I am learning**
+
+  </div>
+
+  <div align='left'>
 
   <a href='https://openjdk.java.net/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/static/v1?label=&message=Java&style=flat-square&logo=java&logoColor=007396&color=black' />
@@ -107,9 +119,9 @@
   </a>
   <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&logoColor=green&color=black' />
 
- <!--  </div>
+  </div>
 
-  <div align='center'> -->
+  <div align='left'>
 
 **preferences**
 
@@ -117,7 +129,7 @@
   <img src='https://img.shields.io/static/v1?label=Editor&message=Visual-Studio-Code&color=black&style=flat-square&logo=atom' />
   <img src='https://img.shields.io/static/v1?label=Language&message=Python&color=black&style=flat-square&logo=python' />
 
-  <!-- </div> -->
+  </div>
 
 <br />
 <br />
