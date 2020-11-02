@@ -1,6 +1,6 @@
 <div align='center'>
 
-### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="30px" height="30px" width="20px" src="/assets/wave.gif" />
+### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="30px" height="30px" width="20px" />
 
 <img alt="hello" width="300px" height="300px" src="/assets/hello.gif"/>
 </div>
