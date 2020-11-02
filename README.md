@@ -1,13 +1,13 @@
 <div align='center'>
 
-### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="30px" height="30px" width="20px" />
+### Hi there, I'm Johan - aka [JOX]
 
 <img alt="hello" width="300px" height="300px" src="/assets/hello.gif"/>
 </div>
 
 ---
 
-<img alt="work-like-hell" align="right" width="350px" height="400px" src="/assets/tenor.gif" />
+<img alt="work-like-hell" align="right" width="300px" height="350px" src="/assets/tenor.gif" />
 
 <br />
 
