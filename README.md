@@ -87,7 +87,7 @@
   </a>
   
   <a href='https://nodered.org/docs/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/Node-RED%20-%8F0000.svg?&style=flat-square&logo=node-red&logoColor=white' />
+    <img src='https://img.shields.io/badge/Node-RED-8F0000.svg?style=flat-square&logo=node-red&logoColor=white' />
   </a>
 
   </div>
@@ -119,14 +119,14 @@
     <img src='<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>' />
   </a>
 
-  <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB' />
+  <a href='https://reactjs.org/docs/getting-started.html' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/react-2320232a.svg?style=flat-square&logo=react&logoColor=2361DAFB' />
   </a>
   <a href='https://reactnative.dev/docs/getting-started' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB' />
   </a>
   <a href='https://en.wikipedia.org/wiki/Cryptography' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/letsencrypt%20-%003A70.svg?&style=flat-square&logo=Crytography&logoColor=%2361DAFB' />
+    <img src='https://img.shields.io/badge/letsencrypt-003A70.svg?style=flat-square&logo=Crytography&logoColor=2361DAFB' />
 
   </div>
 
