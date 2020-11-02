@@ -1,6 +1,6 @@
 <div align='center'>
 
-### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="20px" height="30px" width="20px" src="/assets/wave.gif" />
+### Hi there, I'm Johan - aka [JOX] <img alt="wave" width="30px" height="30px" width="20px" src="/assets/wave.gif" />
 
 <img alt="hello" width="300px" height="300px" src="/assets/hello.gif"/>
 </div>
@@ -37,6 +37,8 @@
   </a>
   <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
   <img src='https://img.shields.io/badge/-Jira-00979D?style=flat-square&logo=jira-software&logoColor=0052CC'/></a>
+    <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
+  <img src='https://img.shields.io/badge/VirtualBox-%183A61.svg?style=flat-square&logo=VirtualBox&logoColor=0052CC'/></a>
 
   </div>
 
@@ -58,7 +60,6 @@
   <a href='https://vercel.com/docs' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/vercel%20-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white' />
   </a>
-
   <a href='https://helpx.adobe.com/xd/user-guide.html' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=flat-square&logo=adobe%20xd&logoColor=white' />
   </a>
@@ -80,6 +81,20 @@
   <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white' />
   </a>
+    <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/Node-RED%20-%8F0000.svg?&style=flat-square&logo=NodeRed&logoColor=white' />
+  </a>
+    <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/Node-RED%20-%8F0000.svg?&style=flat-square&logo=NodeRed&logoColor=white' />
+  </a>
+  <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white">
+  </a>
+  <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"></a>
+  <a href='https://www.krita.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
+  </a>
 
   </div>
 
@@ -100,7 +115,8 @@
   <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB' />
   </a>
-  <img src='https://img.shields.io/static/v1?label=&message=cryptography&style=flat-square&logo=hashing&logoColor=green&color=black' />
+  <a href='https://cmake.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/Let’s Encrypt%20-%003A70.svg?&style=flat-square&logo=Crytography&logoColor=%2361DAFB' />
 
   </div>
 
