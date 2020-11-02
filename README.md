@@ -94,7 +94,7 @@
 
   <div align='center'>
 
-**I am learning**
+**I AM LEARNING**
 
   </div>
 
@@ -120,19 +120,18 @@
   </a>
 
   <a href='https://reactjs.org/docs/getting-started.html' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/react-2320232a.svg?style=flat-square&logo=react&logoColor=2361DAFB' />
+    <img src='https://img.shields.io/badge/react%20-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB' />
   </a>
   <a href='https://reactnative.dev/docs/getting-started' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB' />
   </a>
-  <a href='https://en.wikipedia.org/wiki/Cryptography' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/letsencrypt-003A70.svg?style=flat-square&logo=Crytography&logoColor=2361DAFB' />
-
+  <!-- <a href='https://en.wikipedia.org/wiki/Cryptography' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/letsencrypt-003A70.svg?style=flat-square&logo=Crytography&logoColor=2361DAFB' /> </a> -->
   </div>
 
   <div align='center'>
 
-**preferences**
+**PREFERENCES**
 
 <a href='https://docs.microsoft.com/en-us/windows/' target='_blank' rel='noopener' rel='noreferrer'>
   <img src='https://img.shields.io/static/v1?label=OS&message=Windows&color=0078D6&logo=windows&logoColor=white&style=flat-square'/>
