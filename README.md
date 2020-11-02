@@ -9,6 +9,8 @@
 
 <img alt="work-like-hell" align="right" width="350px" height="350px" src="/assets/tenor.gif" />
 
+<br />
+
 <div align='center'>
 
 **LANGUAGES**
@@ -39,6 +41,8 @@
   <img src='https://img.shields.io/badge/-Jira-00979D?style=flat-square&logo=jira-software&logoColor=0052CC'/></a> -->
 
   </div>
+
+<br />
 
 <div align='center'>
 
@@ -92,6 +96,8 @@
 
   </div>
 
+<br />
+
   <div align='center'>
 
 **I AM LEARNING**
@@ -128,6 +134,8 @@
   <!-- <a href='https://en.wikipedia.org/wiki/Cryptography' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/letsencrypt-003A70.svg?style=flat-square&logo=Crytography&logoColor=2361DAFB' /> </a> -->
   </div>
+
+<br />
 
   <div align='center'>
 
