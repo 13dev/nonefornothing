@@ -37,8 +37,6 @@
   </a>
   <!-- <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noopener' rel='noreferrer'>
   <img src='https://img.shields.io/badge/-Jira-00979D?style=flat-square&logo=jira-software&logoColor=0052CC'/></a> -->
-    <a href='https://www.virtualbox.org/wiki/Documentation' target='_blank' rel='noopener' rel='noreferrer'>
-  <img src='https://img.shields.io/badge/VirtualBox-%183A61.svg?style=flat-square&logo=VirtualBox&logoColor=0052CC'/></a>
 
   </div>
 
@@ -49,6 +47,22 @@
   </div>
 
 <div align='center'>
+  <a href='https://helpx.adobe.com/xd/user-guide.html' target='_blank'  rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=flat-square&logo=adobe%20xd&logoColor=white' />
+  </a>
+
+  <a href='https://helpx.adobe.com/illustrator/user-guide.html' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white' />
+  </a>
+
+  <a href='https://docs.github.com/en' target='_blank' rel='noopener' rel='noreferrer'>
+  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
+  </a>
+
+  <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
+  </a>
+
    <a href='https://dev.mysql.com/doc/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/mysql-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white' />
   </a>
@@ -60,39 +74,20 @@
   <a href='https://vercel.com/docs' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/vercel%20-%23000000.svg?&style=flat-square&logo=vercel&logoColor=white' />
   </a>
-  <a href='https://helpx.adobe.com/xd/user-guide.html' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=flat-square&logo=adobe%20xd&logoColor=white' />
-  </a>
-  <a href='https://helpx.adobe.com/illustrator/user-guide.html' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=flat-square&logo=adobe%20illustrator&logoColor=white' />
-  </a>
-  <a href='https://www.arduino.cc/en/main/docs' target='_blank' rel='noopener' rel='noreferrer'>
-   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
-  </a>
-  <a href='https://docs.github.com/en' target='_blank' rel='noopener' rel='noreferrer'>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white"/>
-  </a>
-  <a href='https://git-scm.com' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=git&style=flat-square&logo=git&logoColor=f05032&color=black' />
-  </a>
-  <a href='https://getbootstrap.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&style=flat-square&logo=bootstrap&logoColor=563d7c&color=black' />
-  </a>
+  
   <a href='https://nodejs.org/en/docs/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white' />
   </a>
-    <a href='https://nodered.org/docs/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/Node-RED%20-%8F0000.svg?&style=flat-square&logo=NodeRed&logoColor=white' />
-  </a>
-  <a href='https://redux.js.org/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white">
-  </a>
 
-  <a href='https://jquery.com/' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"></a>
+  <a href='https://www.virtualbox.org/wiki/Documentation' target='_blank' rel='noopener' rel='noreferrer'>
+  <img src='https://img.shields.io/badge/VirtualBox-%183A61.svg?style=flat-square&logo=VirtualBox&logoColor=0052CC'/></a>
 
-  <a href='https://sass-lang.com/documentation' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
+  <a href='https://www.arduino.cc/en/main/docs' target='_blank' rel='noopener' rel='noreferrer'>
+   <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
+  </a>
+  
+  <a href='https://nodered.org/docs/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/badge/Node-RED%20-%8F0000.svg?&style=flat-square&logo=node-red&logoColor=white' />
   </a>
 
   </div>
@@ -105,9 +100,25 @@
 
   <div align='center'>
 
+  <a href='https://redux.js.org/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white">
+  </a>
+  
+  <a href='https://jquery.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src="https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=flat-square&logo=jquery&logoColor=white"></a>
+
+  <a href='https://sass-lang.com/documentation' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=flat-square&logo=SASS&logoColor=white"/>
+  </a>
+
+  <a href='https://getbootstrap.com/' target='_blank' rel='noopener' rel='noreferrer'>
+    <img src='https://img.shields.io/static/v1?label=&message=Bootstrap&style=flat-square&logo=bootstrap&logoColor=563d7c&color=black' />
+  </a>
+
   <a href='https://reactjs.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=flat-square&logo=bootstrap&logoColor=white"/>' />
   </a>
+
   <a href='https://godotengine.org/' target='_blank' rel='noopener' rel='noreferrer'>
     <img src='https://img.shields.io/badge/react%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB' />
   </a>
@@ -115,7 +126,7 @@
     <img src='https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB' />
   </a>
   <a href='https://en.wikipedia.org/wiki/Cryptography' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/badge/Let’s Encrypt%20-%003A70.svg?&style=flat-square&logo=Crytography&logoColor=%2361DAFB' />
+    <img src='https://img.shields.io/badge/letsencrypt%20-%003A70.svg?&style=flat-square&logo=Crytography&logoColor=%2361DAFB' />
 
   </div>
 
