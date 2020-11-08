@@ -7,7 +7,7 @@
 
 ---
 
-<img alt="work-like-hell" align="right" width="300px" height="350px" src="/assets/tenor.gif" />
+<img alt="work-like-hell" align="right" width="300px" height="360px" src="/assets/tenor.gif" />
 
 <br />
 
