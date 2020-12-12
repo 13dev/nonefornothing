@@ -166,7 +166,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center"> 
-<a href="" target="_blank"><img alt="personal website" width="50px" height="50px" margin-right="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" ></a>
+<a href="https://johan-ambarita-68258.web.app/" target="_blank"><img alt="personal website" width="50px" height="50px" margin-right="50px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" ></a>
 <a href="mailto:ambaritajohan10@gmail.com" target="_blank"><img alt="gmail account" width="50px" height="50px" margin-right="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 <a href="https://www.linkedin.com/in/johan-ambarita-bb7bab148/" target="_blank"><img alt="LinkedIn account" width="50px" height="50px" margin-right="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/joxambarita/" target="_blank"><img alt="Instagram account" width="50px" height="50px" margin-right="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a></p>
